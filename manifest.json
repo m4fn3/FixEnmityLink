@@ -1,0 +1,12 @@
+{
+   "name": "FixEnmityLink",
+   "version": "1.0.0",
+   "description": "Make enmity:// link work for JB users or those who don't have enmity scheme",
+   "authors": [
+      {
+         "name": "mafu",
+         "id": "519760564755365888"
+      }
+   ],
+   "color": "#bdb76b"
+}
