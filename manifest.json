@@ -1,7 +1,7 @@
 {
    "name": "FixEnmityLink",
-   "version": "1.0.0",
-   "description": "Make enmity:// link work for JB users or those who don't have enmity scheme",
+   "version": "1.1.0",
+   "description": "make enmity:// link work for all users on any versions!",
    "authors": [
       {
          "name": "mafu",
